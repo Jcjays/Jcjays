@@ -1,16 +1,21 @@
 <h1 align="center">Hi 👋, <br>I'm Christopher Adonis!</h1>
 <h3 align="center">A self-taught programmer who has interest in building<br> Web and Mobile application.</h3>
 <br>
-<br>
+
 • 🔭 I’m currently working on my own portfolio using React.
+<br>
 
 • 🌱 I’m currently learning react, react-native, JavaScript.
+<br>
 
 • 👯 I’m looking to collaborate on any open source project related to app development.
+<br>
 
 • 🤝 I’m looking for help with efficient way of coding using react native.
+<br>
 
 • 💬 Ask me about anything!
+<br>
 
 • 📫 How to reach me Christopher.adonis@outlook.com
 <br>
