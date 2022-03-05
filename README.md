@@ -2,17 +2,17 @@
 <h3 align="center">A self-taught programmer who has interest in building<br> Web and Mobile application.</h3>
 <br>
 <br>
-- 🔭 I’m currently working on **my own portfolio using React.**
+• 🔭 I’m currently working on my own portfolio using React.
 
-- 🌱 I’m currently learning **react, react-native, JavaScript.**
+• 🌱 I’m currently learning react, react-native, JavaScript.
 
-- 👯 I’m looking to collaborate on **any open source project related to app development.**
+• 👯 I’m looking to collaborate on any open source project related to app development.
 
-- 🤝 I’m looking for help with **efficient way of coding using react native.**
+• 🤝 I’m looking for help with efficient way of coding using react native.
 
-- 💬 Ask me about **anything!**
+• 💬 Ask me about anything!
 
-- 📫 How to reach me **Christopher.adonis@outlook.com**
+• 📫 How to reach me Christopher.adonis@outlook.com
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
