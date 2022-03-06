@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, <br>I'm Christopher Adonis!</h1>
-<h3 align="center">A self-taught programmer who has interest in building<br> Web and Mobile application.</h3>
+<h3 align="center">A programmer who has interest in building<br> Web and Mobile application.</h3>
 <br>
 
-• 🔭 I’m currently working on my own portfolio using React.
+• 🔭 IT Graduate.
 <br>
 
 • 🌱 I’m currently learning react, react-native, JavaScript.
