@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, <br>I'm Christopher Adonis!</h1>
-<h3 align="center">A programmer who has interest in building<br> Web and Mobile application.</h3>
+<h3 align="center">A programmer who has interest in building<br>Mobile application.</h3>
 <br>
 
-• 🔭 IT Graduate.
+• 🔭 IT Student.
 <br>
 
 • 🌱 I’m currently learning kotlin android development.
@@ -11,7 +11,7 @@
 • 👯 I’m looking to collaborate on any open source project related to app development.
 <br>
 
-• 🤝 I’m looking for help with efficient way of coding using react native.
+• 🤝 I’m looking for help with efficient way of coding using kotlin programming language.
 <br>
 
 • 💬 Ask me about anything!
