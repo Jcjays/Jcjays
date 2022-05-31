@@ -5,7 +5,7 @@
 • 🔭 IT Graduate.
 <br>
 
-• 🌱 I’m currently learning react, react-native, JavaScript.
+• 🌱 I’m currently learning kotlin android development.
 <br>
 
 • 👯 I’m looking to collaborate on any open source project related to app development.
