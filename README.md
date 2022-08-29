@@ -2,16 +2,16 @@
 <h3 align="center">A programmer who has interest in building<br>Mobile application.</h3>
 <br>
 
-• 🔭 IT Student.
+• 🔭 BS in Information Technology.
 <br>
 
-• 🌱 I’m currently learning kotlin android development.
+• 🌱 I’m currently using kotlin/java for android development.
 <br>
 
 • 👯 I’m looking to collaborate on any open source project related to app development.
 <br>
 
-• 🤝 I’m looking for help with efficient way of coding using kotlin programming language.
+• 🤝 I’m looking for help with efficient way of coding using kotlin/java/flutter programming language.
 <br>
 
 • 💬 Ask me about anything!
