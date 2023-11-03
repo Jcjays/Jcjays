@@ -11,9 +11,6 @@
 • 👯 I’m looking to collaborate on any open source project related to app development.
 <br>
 
-• 🤝 I’m looking for help with efficient way of coding using kotlin/java/dart programming language.
-<br>
-
 • 💬 Ask me about anything!
 <br>
 
